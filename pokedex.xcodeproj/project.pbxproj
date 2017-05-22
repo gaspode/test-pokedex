@@ -12,6 +12,7 @@
 		BE7B30B21ED34227003F6119 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE7B30B01ED34227003F6119 /* Main.storyboard */; };
 		BE7B30B41ED34227003F6119 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE7B30B31ED34227003F6119 /* Assets.xcassets */; };
 		BE7B30B71ED34227003F6119 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE7B30B51ED34227003F6119 /* LaunchScreen.storyboard */; };
+		BE7B30BF1ED3ACFA003F6119 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = BE7B30BE1ED3ACFA003F6119 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BE7B30B31ED34227003F6119 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE7B30B61ED34227003F6119 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE7B30B81ED34227003F6119 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE7B30BE1ED3ACFA003F6119 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				BE7B30AE1ED34227003F6119 /* ViewController.swift */,
 				BE7B30B01ED34227003F6119 /* Main.storyboard */,
 				BE7B30B31ED34227003F6119 /* Assets.xcassets */,
+				BE7B30BE1ED3ACFA003F6119 /* pokemon.csv */,
 				BE7B30B51ED34227003F6119 /* LaunchScreen.storyboard */,
 				BE7B30B81ED34227003F6119 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				BE7B30B71ED34227003F6119 /* LaunchScreen.storyboard in Resources */,
 				BE7B30B41ED34227003F6119 /* Assets.xcassets in Resources */,
+				BE7B30BF1ED3ACFA003F6119 /* pokemon.csv in Resources */,
 				BE7B30B21ED34227003F6119 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
